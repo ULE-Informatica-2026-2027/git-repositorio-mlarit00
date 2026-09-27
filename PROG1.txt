@@ -1,0 +1,11 @@
+1.gato- https://dle.rae.es/gato
+2.pato- https://dle.rae.es/pato?m=form
+3.patio- https://dle.rae.es/pato?m=form
+4.cosa- https://dle.rae.es/cosa?m=form
+5.forma- https://dle.rae.es/forma?m=form
+6.guantes- https://dle.rae.es/guante?m=form
+7.vendas- https://dle.rae.es/vendas?m=form
+8.casco- https://dle.rae.es/casco?m=form
+9.botas- https://dle.rae.es/botas?m=form
+10.ganar- https://dle.rae.es/ganar?m=form
+
