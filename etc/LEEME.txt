@@ -1,0 +1,25 @@
+Practica P-VAR
+
+Alumno:
+Mario Larin Trancon
+
+Horas dedicadas:
+5-6 horas
+
+Problemas surgidos al realizar la practica:
+La mayor parte hasta ahora han sido erratas y olvidos de poner ; al final o también me he encontrado con errores en el tipo de variable.
+
+Respuestas a la preguntas:
+Apartado 030101
+ Ejercicio 4: Al operar con elñ double los resultados no son del todo excactos(2.8 - 1.5 = 1.29999999998) esto pasa porque double opera con binario y como algunos numero no se pueden expresar exdactamente en binariuo se producen pequeños errores como en este caso.
+ Ejercicio 5: A diferencia de con el double al introducir los mismos datos en la clase BigDecimal si da un resultado exacto porque esta si que no pierde nada de precision al operar.
+Apartado 030104
+ Ejercicio 2:Al asignar un valor long a tipos de datos mas pequeños medianmte un cast, si el valor supera el limite del nuevo destino se acorta ahasta el numero que si qeu pueda almacenar.
+ En int se mantienbe el valor original porque si que esta en el rango.
+ En short al superar el rango maximo se convierte en negativo.
+ En byte ocurre un truncamiento
+ Ejercicio 4:Al convertir valores double enormes a tipops mas pequeños como float o byte ocurren distintas cosas:
+ LOs valores que superean el max permitido se transforman en infinito o menos infinito.
+ Los valores extremadamente pequelños se transforman en 0,0.
+ Los enteros grandes al pasarlos a byte o short provocan un truncamiento de los bits que les sobran, en ocasuiones dan lugar a numeros distintos totalmente o negativos.
+
