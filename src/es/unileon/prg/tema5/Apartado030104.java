@@ -134,9 +134,9 @@ package es.unileon.prg.tema5;
          short s = (short)32770;
          int i = (int)2147483650l; 
       
-         System.out.println("Byte  : " + b);    
-         System.out.println("Short : " + s);    
-         System.out.println("Int   : " + i);
+         System.out.println(b);    
+         System.out.println(s);    
+         System.out.println(i);
       
          
          float f = 1.3e22f;   

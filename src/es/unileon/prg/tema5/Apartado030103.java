@@ -27,8 +27,8 @@ public class Apartado030103 extends Apartado {
 	 */
 	public void ejercicio01() {
 		cabecera("01", "Calcular la raiz cuadrada de un numero");
-        double raiz = Math.sqrt(256);
-		System.out.println("Raiz: " + raiz);
+        double resultadoRaiz = Math.sqrt(256);
+		System.out.println(resultadoRaiz);
 		
 		// Fin modificacion
 	}
@@ -80,7 +80,7 @@ public class Apartado030103 extends Apartado {
 		// Inicio modificacion
 		double radio = 10.0;
 		double superficie = Math.PI * Math.pow(radio, 2);
-		System.out.println("Superficie: " + superficie);
+		System.out.println(superficie);
 		// Fin modificacion
 	}
 }

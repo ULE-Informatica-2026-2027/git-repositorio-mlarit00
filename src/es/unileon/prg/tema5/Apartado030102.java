@@ -59,7 +59,7 @@ public class Apartado030102 extends Apartado {
 		boolean rebaja;
 		// rebaja = expresion booleana
 		rebaja = ((edad >= 40 && edad <=60) && numeroPartes < 3) ||   (edad > 20 && numeroPartes<= 1 && !deportivo);
-        System.out.println("Rebaja = " + rebaja);
+        System.out.println(rebaja);
 		
 		// Fin modificacion
 	}
